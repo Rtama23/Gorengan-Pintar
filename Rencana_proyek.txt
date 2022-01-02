@@ -4,6 +4,8 @@ Rencana Proyek
 -Menambahkan PHP Framework
   *Lavarel
 -Menambahkan Javasript
+-Menambahkan PHP Framework
+  *Laravel
 -Menghosting Wesite
 -Publish Website
 -Pyhton
