@@ -1,3 +1,5 @@
-Rizki Agustama
-Membuat Platform Untuk Mengelola Website Gorengan Pintar
-Matakuliah Manajemen Proyek
+Projek Rizki Agustama
+-Membuat Platform Untuk Mengelola Website Gorengan Pintar
+-Memenuhi Tugas Matakuliah Manajemen Proyek
+-Menampilkan website secara online
+
