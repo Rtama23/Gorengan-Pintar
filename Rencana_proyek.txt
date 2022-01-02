@@ -1,6 +1,9 @@
 Rencana Proyek
 -Membuat website Gorengn pintar
 -Fundamental Stuktur Data
+-Menambahkan PHP Framework
+  *Lavarel
 -Menambahkan Javasript
 -Menghosting Wesite
 -Publish Website
+-Pyhton
