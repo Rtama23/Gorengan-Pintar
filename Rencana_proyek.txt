@@ -1,4 +1,5 @@
 Rencana Proyek
--Membuat website Gorengn pintae
+-Membuat website Gorengn pintar
+-Menambahkan Javasript
 -Menghosting Wesite
 -Publish Website
